@@ -1,5 +1,3 @@
-# Generate readme content for this file for github repository
-
 This repository hosts the final report for Precision Investments: Navigating Denton County’s Real Estate Landscape for the Highest Returns. The document presents a comprehensive data-driven analysis-descriptive statistics, exploratory plots, ANOVA and regression models-to guide a \$1,000,000 real-estate investment strategy in Denton County.
 
 ## Repository Structure
